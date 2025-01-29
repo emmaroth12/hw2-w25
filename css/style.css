@@ -42,37 +42,38 @@ div {
 }
 
 .red {
-    background-color: #FF0000;
-    text-align: right;
-    margin-left: 50px;
-    border: 2px solid #FFFFFF;
+    background-color: #FF0000; /* Hexadecimal value for red */
+    text-align: right; /* Align text to the right */
+    margin-left: 50px; /* 50px margin on the left */
+    border-bottom: 2px solid #FFFFFF; /* 2px white border on the bottom */
+    border-left: 5px solid #FFFFFF;
 }
 
 .blue {
     color: #c4c4c4;
-    background-color: #0000FF;
-    text-align: left;
-    margin-right: 50px;
-    border: 2px solid #FFFFFF;
+    background-color: #0000FF; /* Hexadecimal value for blue */
+    text-align: left; /* Align text to the left */
+    margin-right: 50px; /* 50px margin on the right */
+    border-top: 2px solid #FFFFFF; /* 2px white border on the top */
+    border-right: 5px solid #FFFFFF
 }
 
-.blue h1, .blue h2, .blue h3, .blue h4, .blue h5, .blue h6, .blue p {
-    color: #c4c4c4; 
-}
 
 .yellow {
     color: #707070;
-    background-color: #FFFF00;
-    text-align: right;
-    margin-left: 50px;
-    border: 2px solid #FFFFFF;
+    background-color: #FFFF00; /* Hexadecimal value for yellow */
+    text-align: right; /* Align text to the right */
+    margin-left: 50px; /* 50px margin on the left */
+    border-bottom: 2px solid #FFFFFF; /* 2px white border on the bottom */
+    border-left: 5px solid #FFFFFF;
 }
 
 .green { 
-    background-color: #008500;
-    text-align: left;
-    margin-right: 50px;
-    border: 2px solid #FFFFFF;
+    background-color: #008500; /* Hexadecimal value for green */
+    text-align: left; /* Align text to the left */
+    margin-right: 50px; /* 50px margin on the right */
+    border-top: 2px solid #FFFFFF; /* 2px white border on the top */
+    border-right: 5px solid #FFFFFF;
 }
 
 footer {
