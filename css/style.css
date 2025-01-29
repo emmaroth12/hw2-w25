@@ -42,20 +42,18 @@ div {
 }
 
 .red {
-    background-color: #FF0000; 
+    background-color: #FF0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid #FFFFFF;
-    border-left: 5px solid #FFFFFF;
+    border: 2px solid #FFFFFF;
 }
 
 .blue {
-    color: #c4c4c4; 
-    background-color:#0000FF;
+    color: #c4c4c4;
+    background-color: #0000FF;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px solid #FFFFFF;
-    border-top: 2px solid #FFFFFF;
+    border: 2px solid #FFFFFF;
 }
 
 .blue h1, .blue h2, .blue h3, .blue h4, .blue h5, .blue h6, .blue p {
@@ -63,20 +61,18 @@ div {
 }
 
 .yellow {
-    color: #707070; 
-    background-color: #FFFF00; 
+    color: #707070;
+    background-color: #FFFF00;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid #FFFFFF;
-    border-left: 5px solid #FFFFFF;
+    border: 2px solid #FFFFFF;
 }
 
 .green { 
-    background-color: #008500; 
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
-    border-right: 5px solid #FFFFFF;
-    border-top: 2px solid #FFFFFF;
+    border: 2px solid #FFFFFF;
 }
 
 footer {
