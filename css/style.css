@@ -34,9 +34,11 @@ div {
 }
 
 .introduction {
+    border: 3px solid #FFFFFF; 
     border-radius: 15px;
     margin-top: 15px;
     line-height: 2; 
+    padding: 20px; 
 }
 
 .red {
